@@ -45,7 +45,7 @@ The goal is to extract meaningful insights on market growth, regional dynamics, 
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1️⃣ Distribution de la variable cible
-![Distribution cible](<img width="570" height="396" alt="image" src="https://github.com/user-attachments/assets/a8cc3d7d-a81a-4ea9-b2f9-d6697cd6fc9b" />
+![Distribution cible](<img width="570" height="396" alt="téléchargement" src="https://github.com/user-attachments/assets/b5f7bd98-d626-4b9e-bc8b-e9207cc40d0e" />
 )
 
 **INTERPRÉTATION**:  
