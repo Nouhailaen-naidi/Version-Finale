@@ -45,7 +45,8 @@ The goal is to extract meaningful insights on market growth, regional dynamics, 
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1️⃣ Distribution de la variable cible
-![Distribution cible](images/target_distribution.png)
+![Distribution cible](<img width="570" height="396" alt="image" src="https://github.com/user-attachments/assets/a8cc3d7d-a81a-4ea9-b2f9-d6697cd6fc9b" />
+)
 
 **INTERPRÉTATION**:  
 Si les classes sont très déséquilibrées, le modèle pourrait avoir du mal à prédire la classe minoritaire. Un rééquilibrage sera nécessaire.
